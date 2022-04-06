@@ -13,6 +13,7 @@ public class Main {
 		
 		cc.imprimirExtrato();
 		poupanca.imprimirExtrato();
+		cc.imprimirInfosComuns();
 	}
 
 }
